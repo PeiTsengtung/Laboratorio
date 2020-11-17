@@ -10,7 +10,7 @@ Benveni a le personale page de Pei Tseng-tung! Me va comparti sape e ideas sur l
 
 - [吳語](https://github.com/PeiTsengtung/Laboratorio/issues/2)
 
-- [ᨽᩣᩈᩣᨡᩨ᩠ᨶ ภาษาไทเขิน](https://github.com/PeiTsengtung/Laboratorio/issues/3)
+- [ภาษาไทย](https://github.com/PeiTsengtung/Laboratorio/issues/3)
 
 ### Wiki 維基
 
