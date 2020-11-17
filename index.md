@@ -10,6 +10,8 @@ Benveni a le personale page de Pei Tseng-tung! Me va comparti sape e ideas sur l
 
 - [吳語](https://github.com/PeiTsengtung/Laboratorio/issues/2)
 
+- [ᨽᩣᩈᩣᨡᩨ᩠ᨶ ภาษาไทเขิน](https://github.com/PeiTsengtung/Laboratorio/issues/3)
+
 ### Wiki 維基
 
 我的 [Wiki](https://github.com/PeiTsengtung/Laboratorio/wiki) 上會不定期更新一些文章，最近聚焦的項目將會放置在這裡，供讀者查閱。
