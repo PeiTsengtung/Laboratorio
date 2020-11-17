@@ -16,6 +16,6 @@ Benveni a le personle page de Pei Tseng-tung! Me va comparte sapite e ideas sur 
 
 - [鎮海憩橋音系](https://github.com/PeiTsengtung/Laboratorio/wiki/%E9%8E%AE%E6%B5%B7%E6%86%A9%E6%A9%8B%E9%9F%B3%E7%B3%BB)
 
-### Sur le linguas 關於語言
+### Sur le lingua 關於語言
 
 本 Laboratorio 所使用的主語言是 Neolatino，由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neolatino 的資料，目前正在編寫，感謝支持！
