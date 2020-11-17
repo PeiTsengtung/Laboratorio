@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Hola! Come tu es?
 
-You can use the [editor on GitHub](https://github.com/PeiTsengtung/Pei-s-Linguistic-Lab/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Benveni a le personle page de Pei Tseng-tung! Me va comparte sapite e ideas sur linguistica ci.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+歡迎來到夏如臻的個人主頁！我會在這裡分享一些語言學相關的知識和觀點。
 
-### Markdown
+### Categorias 分類導航
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我在 Github 頁面的 [Issues](https://github.com/PeiTsengtung/Laboratorio/issues) 上建立了一些分類導航，用於收集不同主題的文章、筆記或文件。通過這些導航，你可以很快查找並獲取到你所感興趣的信息。
 
-```markdown
-Syntax highlighted code block
+- [吳語](https://github.com/PeiTsengtung/Laboratorio/issues/2)
 
-# Header 1
-## Header 2
-### Header 3
+### Wiki 維基
 
-- Bulleted
-- List
+我的 [Wiki](https://github.com/PeiTsengtung/Laboratorio/wiki) 上會不定期更新一些文章，最近聚焦的項目將會放置在這裡，供讀者查閱。
 
-1. Numbered
-2. List
+- [鎮海憩橋音系](https://github.com/PeiTsengtung/Laboratorio/wiki/%E9%8E%AE%E6%B5%B7%E6%86%A9%E6%A9%8B%E9%9F%B3%E7%B3%BB)
 
-**Bold** and _Italic_ and `Code` text
+### Sur le linguas 關於語言
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PeiTsengtung/Pei-s-Linguistic-Lab/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+本 Laboratorio 所使用的主語言是 Neolatino，由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neolatino 的資料，目前正在編寫，感謝支持！
