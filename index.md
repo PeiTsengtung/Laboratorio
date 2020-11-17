@@ -1,6 +1,6 @@
 ## Hola! Come tu es?
 
-Benveni a le personle page de Pei Tseng-tung! Me va comparte sapite e ideas sur linguistica ci.
+Benveni a le personle page de Pei Tseng-tung! Me va comparti sapite e ideas sur linguistica ci.
 
 歡迎來到夏如臻的個人主頁！我會在這裡分享一些語言學相關的知識和觀點。
 
@@ -19,3 +19,7 @@ Benveni a le personle page de Pei Tseng-tung! Me va comparte sapite e ideas sur 
 ### Sur le lingua 關於語言
 
 本 Laboratorio 所使用的主語言是 Neolatino，由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neolatino 的資料，目前正在編寫，感謝支持！
+
+### Externe ligaciones 外部鏈接
+
+- [傣痕語與經書傣文教程](https://space.bilibili.com/6951149/favlist?fid=1108631149)
