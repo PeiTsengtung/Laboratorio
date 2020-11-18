@@ -18,6 +18,8 @@ Benveni a le personale page de Pei Tseng-tung! Me va comparti sape e ideas sur l
 
 - [鎮海憩橋音系](https://github.com/PeiTsengtung/Laboratorio/wiki/%E9%8E%AE%E6%B5%B7%E6%86%A9%E6%A9%8B%E9%9F%B3%E7%B3%BB)
 
+- [景棟傣痕語與撣語的聲調](https://github.com/PeiTsengtung/Laboratorio/wiki/%E6%99%AF%E6%A3%9F%E5%82%A3%E7%97%95%E8%AA%9E%E8%88%87%E6%92%A3%E8%AA%9E%E7%9A%84%E8%81%B2%E8%AA%BF)
+
 ### Sur le lingua 關於語言
 
 本 Laboratorio 所使用的主語言是 Neolatino，由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neolatino 的資料，目前正在編寫，感謝支持！
