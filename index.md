@@ -20,6 +20,8 @@ Benveni a le personale page de Pei Tseng-tung! Me va comparti sape e ideas sur l
 
 - [景棟傣痕語與撣語的聲調](https://github.com/PeiTsengtung/Laboratorio/wiki/%E6%99%AF%E6%A3%9F%E5%82%A3%E7%97%95%E8%AA%9E%E8%88%87%E6%92%A3%E8%AA%9E%E7%9A%84%E8%81%B2%E8%AA%BF)
 
+- [老慈谿縣各地方言的特點](https://github.com/PeiTsengtung/Laboratorio/wiki/%E8%80%81%E6%85%88%E8%B0%BF%E7%B8%A3%E5%90%84%E5%9C%B0%E6%96%B9%E8%A8%80%E7%9A%84%E7%89%B9%E9%BB%9E) 2020/11/19
+
 ### Sur le lingua 關於語言
 
 本 Laboratorio 所使用的主語言是 Neolatino，由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neolatino 的資料，目前正在編寫，感謝支持！
