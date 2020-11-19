@@ -14,13 +14,23 @@ Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas
 
 ### Wiki 維基
 
-我的 [Wiki](https://github.com/PeiTsengtung/Laboratorio/wiki) 上會不定期更新一些文章，最近聚焦的項目將會放置在這裡，供讀者查閱。
+我的 [Wiki](https://github.com/PeiTsengtung/Laboratorio/wiki) 上會不定期更新一些文章，最近聚焦的項目以及整理的文獻將會放置在這裡，供讀者查閱。
 
 - [鎮海憩橋音系](https://github.com/PeiTsengtung/Laboratorio/wiki/%E9%8E%AE%E6%B5%B7%E6%86%A9%E6%A9%8B%E9%9F%B3%E7%B3%BB)
 
 - [景棟傣痕語與撣語的聲調](https://github.com/PeiTsengtung/Laboratorio/wiki/%E6%99%AF%E6%A3%9F%E5%82%A3%E7%97%95%E8%AA%9E%E8%88%87%E6%92%A3%E8%AA%9E%E7%9A%84%E8%81%B2%E8%AA%BF)
 
 - [老慈谿縣各地方言的特點](https://github.com/PeiTsengtung/Laboratorio/wiki/%E8%80%81%E6%85%88%E8%B0%BF%E7%B8%A3%E5%90%84%E5%9C%B0%E6%96%B9%E8%A8%80%E7%9A%84%E7%89%B9%E9%BB%9E)
+
+- [寧波話新約書 1868 馬太福音](https://github.com/PeiTsengtung/Laboratorio/wiki/%E5%AF%A7%E6%B3%A2%E8%A9%B1%E6%96%B0%E7%B4%84%E6%9B%B8-1868-%E9%A6%AC%E5%A4%AA%E7%A6%8F%E9%9F%B3)
+
+### Qui es me? 我是誰？
+
+Me nome es Pei Tseng-tung. Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neolatino.
+
+我是夏如臻，明州望海縣人，語言學愛好者，Neolatino 項目的創始人。
+
+Me ama Capella, me amable e amate amante.
 
 ### Sur le lingua 關於語言
 
