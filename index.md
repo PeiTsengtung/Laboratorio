@@ -1,6 +1,6 @@
 ## Hola! Come tu es?
 
-Benveni a le personale page de Pei Tseng-tung! Me va comparti sape e ideas sur linguistica ci.
+Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas sur linguistica ci.
 
 歡迎來到夏如臻的個人主頁！我會在這裡分享一些語言學相關的知識和觀點。
 
