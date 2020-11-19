@@ -26,11 +26,11 @@ Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas
 
 ### Qui es me? 我是誰？
 
-Me nome es Pei Tseng-tung. Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neolatino. Linguas de Este Asia e Sude-este Asia multe interesa me.
+Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neolatino. Linguas en Este Asia e Sude-este Asia multe interesa me, e me es studente nihón e tai khuen ahora.
 
-我是夏如臻，明州望海縣人，語言學愛好者，Neolatino 項目的創始人。我對東亞和東南亞的語言非常感興趣。
+我是夏如臻，明州望海縣人，語言學愛好者，Neolatino 項目的創始人。我對東亞和東南亞的語言非常感興趣，目前在學習日語和傣痕語。
 
-Me ama Capella, me amable e amate amante.
+Me ama Capella (Cherng-wei), me amable e amate amante.
 
 ### Sur le lingua 關於語言
 
