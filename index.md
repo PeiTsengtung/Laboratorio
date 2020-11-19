@@ -12,6 +12,8 @@ Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas
 
 - [ภาษาไทย](https://github.com/PeiTsengtung/Laboratorio/issues/3)
 
+- [Lingua Latina](https://github.com/PeiTsengtung/Laboratorio/issues/4)
+
 ### Wiki 維基
 
 我的 [Wiki](https://github.com/PeiTsengtung/Laboratorio/wiki) 上會不定期更新一些文章，最近聚焦的項目以及整理的文獻將會放置在這裡，供讀者查閱。
@@ -22,7 +24,9 @@ Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas
 
 - [老慈谿縣各地方言的特點](https://github.com/PeiTsengtung/Laboratorio/wiki/%E8%80%81%E6%85%88%E8%B0%BF%E7%B8%A3%E5%90%84%E5%9C%B0%E6%96%B9%E8%A8%80%E7%9A%84%E7%89%B9%E9%BB%9E)
 
-- [寧波話新約書 1868 馬太福音](https://github.com/PeiTsengtung/Laboratorio/wiki/%E5%AF%A7%E6%B3%A2%E8%A9%B1%E6%96%B0%E7%B4%84%E6%9B%B8-1868-%E9%A6%AC%E5%A4%AA%E7%A6%8F%E9%9F%B3)
+- [寧波話新約書 1868 馬太福音](https://github.com/PeiTsengtung/Laboratorio/wiki/%E5%AF%A7%E6%B3%A2%E8%A9%B1%E6%96%B0%E7%B4%84%E6%9B%B8-1868-%E9%A6%AC%E5%A4%AA%E7%A6%8F%E9%9F%B3)（整理中）
+
+- [拉丁語與 Neolatino 新約全書 馬太福音](https://github.com/PeiTsengtung/Laboratorio/wiki/%E6%8B%89%E4%B8%81%E8%AA%9E%E8%88%87-Neolatino-%E6%96%B0%E7%B4%84%E5%85%A8%E6%9B%B8-%E9%A6%AC%E5%A4%AA%E7%A6%8F%E9%9F%B3)（整理中）
 
 ### Qui es me? 我是誰？
 
