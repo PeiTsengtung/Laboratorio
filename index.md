@@ -14,6 +14,8 @@ Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas
 
 - [Lingua Latina](https://github.com/PeiTsengtung/Laboratorio/issues/4)
 
+- [Neolatino](https://github.com/PeiTsengtung/Laboratorio/issues/5)
+
 ### Wiki 維基
 
 我的 [Wiki](https://github.com/PeiTsengtung/Laboratorio/wiki) 上會不定期更新一些文章，最近聚焦的項目以及整理的文獻將會放置在這裡，供讀者查閱。
