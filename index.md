@@ -28,6 +28,8 @@ Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas
 
 - [Pater Noster](https://github.com/PeiTsengtung/Laboratorio/wiki/Pater-Noster)
 
+- [寧波話《一杯酒》 1852](https://github.com/PeiTsengtung/Laboratorio/wiki/%E5%AF%A7%E6%B3%A2%E8%A9%B1%E3%80%8A%E4%B8%80%E6%9D%AF%E9%85%92%E3%80%8B-1852)
+
 - [寧波話新約書 1868 馬太福音](https://github.com/PeiTsengtung/Laboratorio/wiki/%E5%AF%A7%E6%B3%A2%E8%A9%B1%E6%96%B0%E7%B4%84%E6%9B%B8-1868-%E9%A6%AC%E5%A4%AA%E7%A6%8F%E9%9F%B3)（整理中）
 
 ### Qui es me? 我是誰？
