@@ -34,6 +34,8 @@ Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas
 
 - [寧波話新約書 1868 馬太福音](https://github.com/PeiTsengtung/Laboratorio/wiki/%E5%AF%A7%E6%B3%A2%E8%A9%B1%E6%96%B0%E7%B4%84%E6%9B%B8-1868-%E9%A6%AC%E5%A4%AA%E7%A6%8F%E9%9F%B3)（整理中）
 
+- [《鄞縣通誌》音系與詞彙整理](https://github.com/PeiTsengtung/Laboratorio/wiki/%E3%80%8A%E9%84%9E%E7%B8%A3%E9%80%9A%E8%AA%8C%E3%80%8B%E9%9F%B3%E7%B3%BB%E8%88%87%E8%A9%9E%E5%BD%99%E6%95%B4%E7%90%86)（整理中）
+
 ### Qui es me? 我是誰？
 
 Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neolatino. Linguas en Este Asia e Sude-este Asia multe interesa me, e me es studente nihon e tai khuen ahora.
