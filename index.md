@@ -45,5 +45,5 @@ Me ama Capella (Cherng-wei), me amable e amate amante.
 
 - [Neolatino 資源庫](https://github.com/PeiTsengtung/Neolatino)
 
-### Externe ligaciones 外部鏈接
+### Externe ligas 外部鏈接
 - [傣痕語與經書傣文教程 ᨷᩯ᩠ᨷᩁ᩠ᨿᩁᨽᩣᩈᩣᨴᩱ᩠ᨿᨡᩨ᩠ᨶᩓᩢᩋᨠ᩠ᨡᩁᨴᩱ᩠ᨿᨵᨾ᩠ᨾ᩼](https://space.bilibili.com/6951149/favlist?fid=1108631149)
