@@ -1,11 +1,9 @@
 ## Hola! Come tu es?
-
 Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas sur linguistica ci.
 
 歡迎來到夏如臻的個人主頁！我會在這裡分享一些語言學相關的知識和觀點。
 
 ### Categorias 分類導航
-
 我在 Github 頁面的 [Issues](https://github.com/PeiTsengtung/Laboratorio/issues) 上建立了一些分類導航，用於收集不同主題的文章、筆記或文件。通過這些導航，你可以很快查找並獲取到你所感興趣的信息。
 
 - [吳語](https://github.com/PeiTsengtung/Laboratorio/issues/2)
@@ -17,7 +15,6 @@ Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas
 - [Neolatino](https://github.com/PeiTsengtung/Laboratorio/issues/5)
 
 ### Wiki 維基
-
 我的 [Wiki](https://github.com/PeiTsengtung/Laboratorio/wiki) 上會不定期更新一些文章，最近聚焦的項目以及整理的文獻將會放置在這裡，供讀者查閱。
 
 - [鎮海憩橋音系](https://github.com/PeiTsengtung/Laboratorio/wiki/%E9%8E%AE%E6%B5%B7%E6%86%A9%E6%A9%8B%E9%9F%B3%E7%B3%BB)
@@ -37,7 +34,6 @@ Benveni a le personale prime page de Pei Tseng-tung! Me va comparti sape e ideas
 - [《鄞縣通志》音系與詞彙](https://github.com/PeiTsengtung/Laboratorio/wiki/%E3%80%8A%E9%84%9E%E7%B8%A3%E9%80%9A%E5%BF%97%E3%80%8B%E9%9F%B3%E7%B3%BB%E8%88%87%E8%A9%9E%E5%BD%99)（整理中）
 
 ### Qui es me? 我是誰？
-
 Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neolatino. Linguas en Este Asia e Sude-este Asia multe interesa me, e me es studente nihon e tai khuen ahora.
 
 我是夏如臻，明州望海縣人，語言學愛好者，Neolatino 項目的創始人。我對東亞和東南亞的語言非常感興趣，目前在學習日語和傣痕語。
@@ -45,9 +41,9 @@ Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es
 Me ama Capella (Cherng-wei), me amable e amate amante.
 
 ### Sur le lingua 關於語言
-
 本 Laboratorio 所使用的主語言是 Neolatino，由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neolatino 的資料，目前正在編寫，感謝支持！
 
-### Externe ligaciones 外部鏈接
+- [Neolatino 資源庫](https://github.com/PeiTsengtung/Neolatino)
 
+### Externe ligaciones 外部鏈接
 - [傣痕語與經書傣文教程 ᨷᩯ᩠ᨷᩁ᩠ᨿᩁᨽᩣᩈᩣᨴᩱ᩠ᨿᨡᩨ᩠ᨶᩓᩢᩋᨠ᩠ᨡᩁᨴᩱ᩠ᨿᨵᨾ᩠ᨾ᩼](https://space.bilibili.com/6951149/favlist?fid=1108631149)
