@@ -45,6 +45,8 @@ Me ama Capella (Cherng-wei), me amable e amate amante.
 ### Sur le lingua 關於語言
 本 Laboratorio 所使用的主語言是 Neolatino，由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neolatino 的資料，目前正在編寫，感謝支持！
 
+- [Neolatino](https://peitsengtung.github.io/Neolatino/)
+
 - [Repositorio de Neolatino](https://github.com/PeiTsengtung/Neolatino)
 
 - [Wiki de Neolatino](https://github.com/PeiTsengtung/Neolatino/wiki)
