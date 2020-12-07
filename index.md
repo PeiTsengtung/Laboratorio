@@ -5,6 +5,8 @@ Benveni a le Linguistique Laboratorio de Pei Tseng-tung! Me va comparti sape e i
 
 [返回首頁](https://peitsengtung.github.io/)
 
+------
+
 ### Categorias 分類導航
 我在 Github 頁面的 [Issues](https://github.com/PeiTsengtung/Laboratorio/issues) 上建立了一些分類導航，用於收集不同主題的文章、筆記或文件。通過這些導航，你可以很快查找並獲取到你所感興趣的信息。
 
