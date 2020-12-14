@@ -38,20 +38,20 @@ Benveni a le Linguistique Laboratorio de Pei Tseng-tung! Me va comparti sape e i
 - [《鄞縣通志》音系與詞彙](https://github.com/PeiTsengtung/Laboratorio/wiki/%E3%80%8A%E9%84%9E%E7%B8%A3%E9%80%9A%E5%BF%97%E3%80%8B%E9%9F%B3%E7%B3%BB%E8%88%87%E8%A9%9E%E5%BD%99)（整理中）
 
 ### Qui es me? 我是誰？
-Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neolatino. Linguas en Este Asia e Sude-este Asia multe interesa me, e me es studente nihon e tai khuen ahora.
+Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neo Latino. Linguas en Este Asia e Sude-este Asia multe interesa me, e me es studente nihon e tai khuen ahora.
 
-我是夏如臻，明州望海縣人，語言學愛好者，Neolatino 項目的創始人。我對東亞和東南亞的語言非常感興趣，目前在學習日語和傣痕語。
+我是夏如臻，明州望海縣人，語言學愛好者，Neo Latino 項目的創始人。我對東亞和東南亞的語言非常感興趣，目前在學習日語和傣痕語。
 
 Me ama Capella (Cherng-wei), me amable e amate amante.
 
 ### Sur le lingua 關於語言
-本 Laboratorio 所使用的主語言是 Neolatino，由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neolatino 的資料，目前正在編寫，感謝支持！
+本 Laboratorio 所使用的主語言是 Neo Latino，由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neo Latino 的資料，目前正在編寫，感謝支持！
 
-- [Neolatino](https://peitsengtung.github.io/Neolatino/)
+- [Neo Latino](https://peitsengtung.github.io/NeoLatino/)
 
-- [Repositorio de Neolatino](https://github.com/PeiTsengtung/Neolatino)
+- [Repositorio de Neo Latino](https://github.com/PeiTsengtung/NeoLatino)
 
-- [Wiki de Neolatino](https://github.com/PeiTsengtung/Neolatino/wiki)
+- [Wiki de Neolatino](https://github.com/PeiTsengtung/NeoLatino/wiki)
 
 ### Externe ligas 外部鏈接
 - [傣痕語與經書傣文教程 ᨷᩯ᩠ᨷᩁ᩠ᨿᩁᨽᩣᩈᩣᨴᩱ᩠ᨿᨡᩨ᩠ᨶᩓᩢᩋᨠ᩠ᨡᩁᨴᩱ᩠ᨿᨵᨾ᩠ᨾ᩼](https://space.bilibili.com/6951149/favlist?fid=1108631149)
