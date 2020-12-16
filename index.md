@@ -48,7 +48,7 @@ Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es
 Me ama Capella (Cherng-wei), me amable e amate amante.
 
 ### Sur le lingua 關於語言
-本 Laboratorio 所使用的主語言是 Neo Latino，由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neo Latino 的資料，目前正在編寫，感謝支持！
+本 Laboratorio 所使用的主語言是 Neo Latino（簡稱 NL 或 Enele），由夏如臻於 2016 年發起的一項基於拉丁-羅曼語的國際輔助語計劃。我也打算在這裡放一些關於 Neo Latino 的資料，目前正在編寫，感謝支持！
 
 - [Neo Latino](https://peitsengtung.github.io/Enele/)
 
