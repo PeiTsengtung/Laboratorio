@@ -18,6 +18,8 @@ Benveni a le Linguistique Laboratorio de Pei Tseng-tung! Me va comparti sape e i
 
 - [Neo Latino](https://github.com/PeiTsengtung/Laboratorio/issues/5)
 
+- [音韻學](https://github.com/PeiTsengtung/Laboratorio/issues/9)
+
 ### Wiki 維基
 我的 [Wiki](https://github.com/PeiTsengtung/Laboratorio/wiki) 上會不定期更新一些文章，最近聚焦的項目以及整理的文獻將會放置在這裡，供讀者查閱。
 
@@ -28,6 +30,8 @@ Benveni a le Linguistique Laboratorio de Pei Tseng-tung! Me va comparti sape e i
 - [老慈谿縣各地方言的特點](https://github.com/PeiTsengtung/Laboratorio/wiki/%E8%80%81%E6%85%88%E8%B0%BF%E7%B8%A3%E5%90%84%E5%9C%B0%E6%96%B9%E8%A8%80%E7%9A%84%E7%89%B9%E9%BB%9E)
 
 - [Pater Noster](https://github.com/PeiTsengtung/Laboratorio/wiki/Pater-Noster)
+
+- [《切韻》音系私貨擬音](https://github.com/PeiTsengtung/Laboratorio/wiki/%E3%80%8A%E5%88%87%E9%9F%BB%E3%80%8B%E9%9F%B3%E7%B3%BB%E7%A7%81%E8%B2%A8%E6%93%AC%E9%9F%B3)
 
 - [寧波話《一杯酒》 1852](https://github.com/PeiTsengtung/Laboratorio/wiki/%E5%AF%A7%E6%B3%A2%E8%A9%B1%E3%80%8A%E4%B8%80%E6%9D%AF%E9%85%92%E3%80%8B-1852)
 
