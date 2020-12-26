@@ -31,7 +31,7 @@ Benveni a le Linguistique Laboratorio de Pei Tseng-tung! Me va comparti sape e i
 
 - [Pater Noster](https://github.com/PeiTsengtung/Laboratorio/wiki/Pater-Noster)
 
-- [《切韻》音系私貨擬音](https://github.com/PeiTsengtung/Laboratorio/wiki/%E3%80%8A%E5%88%87%E9%9F%BB%E3%80%8B%E9%9F%B3%E7%B3%BB%E7%A7%81%E8%B2%A8%E6%93%AC%E9%9F%B3)
+- [《切韻》音系 私貨擬音](https://github.com/PeiTsengtung/Laboratorio/wiki/%E3%80%8A%E5%88%87%E9%9F%BB%E3%80%8B%E9%9F%B3%E7%B3%BB-%E7%A7%81%E8%B2%A8%E6%93%AC%E9%9F%B3)
 
 - [寧波話《一杯酒》 1852](https://github.com/PeiTsengtung/Laboratorio/wiki/%E5%AF%A7%E6%B3%A2%E8%A9%B1%E3%80%8A%E4%B8%80%E6%9D%AF%E9%85%92%E3%80%8B-1852)
 
