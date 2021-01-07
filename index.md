@@ -41,6 +41,8 @@ Benveni a le Linguistique Laboratorio de Pei Tseng-tung! Me va comparti sape e i
 
 - [《鄞縣通志》音系與詞彙](https://github.com/PeiTsengtung/Laboratorio/wiki/%E3%80%8A%E9%84%9E%E7%B8%A3%E9%80%9A%E5%BF%97%E3%80%8B%E9%9F%B3%E7%B3%BB%E8%88%87%E8%A9%9E%E5%BD%99)（整理中）
 
+- [《鄞縣通志》單字音表](https://github.com/PeiTsengtung/Laboratorio/wiki/%E3%80%8A%E9%84%9E%E7%B8%A3%E9%80%9A%E5%BF%97%E3%80%8B%E5%96%AE%E5%AD%97%E9%9F%B3%E8%A1%A8)（整理中）
+
 ### Chatasala 聊天室
 歡迎前往新開設的[聊天室](https://github.com/PeiTsengtung/Laboratorio/discussions)交流語言學相關和其他日常！最近聚焦的有價值討論將會放在這裡。
 
