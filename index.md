@@ -20,6 +20,8 @@ Benveni a le Linguistique Laboratorio de Pei Tseng-tung! Me va comparti sape e i
 
 - [音韻學](https://github.com/PeiTsengtung/Laboratorio/issues/9)
 
+- [Neo ideas](https://github.com/PeiTsengtung/Laboratorio/issues/11)
+
 ### Wiki 維基
 我的 [Wiki](https://github.com/PeiTsengtung/Laboratorio/wiki) 上會不定期更新一些文章，最近聚焦的項目以及整理的文獻將會放置在這裡，供讀者查閱。
 
@@ -47,6 +49,8 @@ Benveni a le Linguistique Laboratorio de Pei Tseng-tung! Me va comparti sape e i
 歡迎前往新開設的[聊天室](https://github.com/PeiTsengtung/Laboratorio/discussions)交流語言學相關和其他日常！最近聚焦的有價值討論將會放在這裡。
 
 - [探究鎮海憩橋方言的連讀變調](https://github.com/PeiTsengtung/Laboratorio/discussions/7)
+
+- [滿語西里爾正字法](https://github.com/PeiTsengtung/Laboratorio/discussions/10)
 
 ### Qui es me? 我是誰？
 Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neo Latino. Linguas en Este Asia e Sude-este Asia multe interesa me, e me es studente nihon e tai khuen ahora.
