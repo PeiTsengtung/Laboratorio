@@ -50,7 +50,7 @@ Benveni a le Linguistique Laboratorio de Pei Tseng-tung! Me va comparti sape e i
 
 - [探究鎮海憩橋方言的連讀變調](https://github.com/PeiTsengtung/Laboratorio/discussions/7)
 
-- [滿語西里爾正字法](https://github.com/PeiTsengtung/Laboratorio/discussions/10)
+- [方輪子：滿語西里爾正字法](https://github.com/PeiTsengtung/Laboratorio/discussions/10)
 
 ### Qui es me? 我是誰？
 Me nome es Pei Tseng-tung (Kibi). Me veni des Mong-he Contado, Ming-tsieu. Me es un amatore de linguistica, e me ja crea le projecto de Neo Latino. Linguas en Este Asia e Sude-este Asia multe interesa me, e me es studente nihon e tai khuen ahora.
